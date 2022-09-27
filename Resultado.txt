@@ -1,0 +1,20 @@
+Algoritmo utilizado -> 'InsertionSort
+Instancia utilizada -> ListaAleatoria-10000
+Tempo = 5.00 segundos | Trocas = 24691294
+
+Algoritmo utilizado -> BubbleSort
+Instancia utilizada -> ListaInversamenteOrdenada-100000
+Tempo = 130.00 segundos | Trocas = 4999950000
+
+Algoritmo utilizado -> BubbleSort
+Instancia utilizada -> ListaAleatoria-100000
+Tempo = 135.00 segundos | Trocas = 2469223314
+
+Algoritmo utilizado -> BubbleSort
+Instancia utilizada -> ListaAleatoria-100000
+Tempo = 118.00 segundos | Trocas = 2469223314
+
+Algoritmo utilizado -> BubbleSort
+Instancia utilizada -> ListaAleatoria-1000
+Tempo = 0.00 segundos | Trocas = 253680
+
